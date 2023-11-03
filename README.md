@@ -2,6 +2,8 @@
 
 This Vue.js project provides a simple search interface that fetches and displays advice from an API based on the user's input.
 
+![SEARCH](public/Mainpage.png)
+
 ## Project Overview
 
 The `Advice Search` component allows users to type in a query and dynamically fetch advice snippets from the `Advice Slip JSON API`. The search is intuitive and provides results as you type.
