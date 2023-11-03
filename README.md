@@ -1,25 +1,45 @@
+
 # search-vue
 
-## Project setup
-```
+# Advice Search Engine
+
+This Vue.js project provides a simple search interface that fetches and displays advice from an API based on the user's input.
+
+## Project Overview
+
+The `Advice Search` component allows users to type in a query and dynamically fetch advice snippets from the `Advice Slip JSON API`. The search is intuitive and provides results as you type.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development purposes.
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Node.js (v10.x or above)
+- npm (v6.x or above)
+
+### Installing
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/mehdi-ayoub/search-vue.git
+
+
+### Navigate to the project directory:
+
+cd advice-search-vue
+
+
+### Install the necessary dependencies:
+
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+
+### To start the development server, run:
+
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# search-vue
+This will compile and hot-reload the application for development. The application will be available at http://localhost:8080.
