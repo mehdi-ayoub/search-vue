@@ -31,13 +31,13 @@ export default {
       clearTimeout(this.timeout);
 
       this.timeout = setTimeout(() => {
-        //  search if the query is not empty
+        //  search if query is not empty
         if (this.query.trim()) {
           this.getData();
         } else {
           this.result = [];
         }
-      }); // Debounce time
+      });
     },
 
     getData() {
