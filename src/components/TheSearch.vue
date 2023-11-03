@@ -1,6 +1,6 @@
 <template>
   <div class="col-md-6 box-title">
-    <h1 class="search-title">Search Engine</h1>
+    <h1 class="search-title"> Advice Search </h1>
     <input
       type="search"
       class="form-control"
