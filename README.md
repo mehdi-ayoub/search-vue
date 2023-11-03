@@ -1,6 +1,6 @@
 # Advice Search Engine
 
-This Vue.js project provides a simple search interface that fetches and displays advice from an API based on the user's input.
+This Vue.js project provides a search interface that fetches and displays advice from an API based on the user's input.
 
 ![SEARCH](public/Mainpage.png)
 
